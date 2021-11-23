@@ -1,3 +1,11 @@
+# choose-between-options
+
+An app for when you can't decide between two or more things and need one choosen.
+
+Production: <https://choose-between-options.netlify.app>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not `npm` for installing them.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
