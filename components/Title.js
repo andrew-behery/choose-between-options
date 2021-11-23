@@ -1,5 +1,5 @@
 const Title = () => {
-  return <h1>choose between options.</h1>;
+  return <h1 className="font-Inter font-black">choose between options.</h1>;
 };
 
 export default Title;
